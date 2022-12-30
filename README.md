@@ -12,3 +12,4 @@ Installation:
 3. Answer all quesetions and watch as HTML file is dynamically generated.
 
 Test: 
+![image](https://user-images.githubusercontent.com/110740700/210039322-798fcc83-e454-430e-b658-d2a86a57c68d.png)
