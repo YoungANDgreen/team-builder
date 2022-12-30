@@ -1,0 +1,22 @@
+{
+    "name": "Team-Builder",
+    "version": "1.0.0",
+    "description": "OOP Team Builder",
+    "main": "app.js",
+    "directories": {
+      "lib": "lib",
+      "test": "test"
+    },
+    "scripts": {
+      "start": "node index.js",
+      "test": "jest"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "inquirer": "8.2.4"
+    },
+    "devDependencies": {
+      "jest": "^24.8.0"
+    }
+  }
